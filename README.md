@@ -6,6 +6,7 @@ This program is a command-line-based calculator built in C, allowing users to pe
 - [Features](#features)
 - [Operations](#operations)
 - [How to Use](#how-to-use)
+- [Error Handling](#error-handling)
 - [Code Structure](#code-structure)
 - [Example Usage](#example-usage)
 
@@ -46,15 +47,14 @@ This program is a command-line-based calculator built in C, allowing users to pe
 
 ## Error Handling
 
- **Division by Zero**
+ 1. **Division by Zero**
  If the user tries to divide by zero, an error message is displayed.
- **Square Root of Negative Number**
+ 2. **Square Root of Negative Number**
  Attempting to compute the square root of a negative number results in an error message.
 
 ---
 
-## License
-This program is open-source and available under the MIT License.
+
 
 ## Code Structure
 
